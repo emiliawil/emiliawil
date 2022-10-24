@@ -3,7 +3,7 @@
 <p align="center">
 Reach out to me about collaborating on beginner projects and learning together. </p><br>
 <p align="center">
-- 🌱 I’m currently learning <b>HTML, CSS, JavaScript & JS frameworks</b></p>
+- 🌱 I’m currently learning <b>full-stack development, including UX/UI, HTML&CSS, Javascript, NodeJS, Express, REST APIs & PostgreSQL.</b></p>
 <p align="center">
 - 📫 How to reach me: <b>emiliawilliamson@pm.me</b></p>
 <br>
