@@ -4,7 +4,7 @@ Hi 👋 My name is Emilia
 I'm a Full Stack Developer
 --------------------------
 
-I've spent the last five years as a Parliamentary caseworker, all the while wishing I had followed my childhood dream of creating websites. In the autumn of 2022, I quit my job and applied to @SchoolOfCode - one of the best decisions I've ever made. In eight weeks My favourite stack is PERN.
+I've spent the last five years as a Parliamentary caseworker, all the while wishing I had followed my childhood dream of creating websites. In the autumn of 2022, I quit my job and applied to @SchoolOfCode - one of the best decisions I've ever made. I'm now ready to enter the industry and find my place in a development team.
 
 * 🌍  I'm based in Birmingham, UK
 * 🖥️  See my portfolio at [emiliawil.dev](http://emiliawil.dev)
