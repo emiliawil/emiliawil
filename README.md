@@ -9,7 +9,7 @@ I worked for years as a Parliamentary caseworker, all the while wishing I had fo
 My time at School of Code is coming to an end, and now I'm ready to spread my wings and grow as a full stack developer in a fun and interesting team!
 
 * 🌍  Based in the Midlands, UK
-* 🖥️  See my portfolio at [emiliawil.dev](http://emiliawil.dev)
+* 🖥️  See my portfolio & CV at [emiliawil.dev](http://emiliawil.dev)
 * ✉️  Contact me at [hello@emiliawil.dev](mailto:hello@emiliawil.dev)
 * 🧠  Currently advancing my SQL & database knowledge and 
 
