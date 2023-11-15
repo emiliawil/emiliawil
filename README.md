@@ -6,12 +6,12 @@ I'm a Full Stack Developer
 
 I worked for years as a Parliamentary caseworker, all the while wishing I had followed my childhood dream of creating websites. In the autumn of 2022, I quit my job and applied to @SchoolOfCode - one of the best decisions I've ever made. Soon after, I was hired on a contract as a Developer and Coach on the School of Code team. I must have made a good impression, eh?
 
-My time at School of Code is coming to an end, and now I'm ready to spread my wings and grow as a full stack developer in a fun and interesting team!
+I'm now a Software Engineer II at the Economist, helping retain subscribers and improve engagement!
 
 * 🌍  Based in the Midlands, UK
 * 🖥️  See my portfolio & CV at [emiliawil.dev](http://emiliawil.dev)
 * ✉️  Contact me at [hello@emiliawil.dev](mailto:hello@emiliawil.dev)
-* 🧠  Currently advancing my SQL & database knowledge and 
+* 🧠  Currently advancing my SQL & database knowledge
 
 ### Skills
 
